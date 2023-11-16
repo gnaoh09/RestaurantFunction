@@ -1,5 +1,5 @@
 # RestaurantFunction
-**(Using mySQL as database and source using Python)**
+***(Using mySQL as database and source using Python)***
 
 #1: Reservation (for customer):
     - Reservation ID will be auto increase from 1 in mysql
